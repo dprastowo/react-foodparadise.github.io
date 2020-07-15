@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6ae1d33.chunk.css",
+    "main.js": "/static/js/main.6df3794a.chunk.js",
+    "main.js.map": "/static/js/main.6df3794a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fafa68b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fafa68b7.js.map",
+    "static/js/2.ac14195d.chunk.js": "/static/js/2.ac14195d.chunk.js",
+    "static/js/2.ac14195d.chunk.js.map": "/static/js/2.ac14195d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.faa7b7dd87bfaf9f23451120468af6d0.js": "/precache-manifest.faa7b7dd87bfaf9f23451120468af6d0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a6ae1d33.chunk.css.map": "/static/css/main.a6ae1d33.chunk.css.map",
+    "static/js/2.ac14195d.chunk.js.LICENSE.txt": "/static/js/2.ac14195d.chunk.js.LICENSE.txt",
+    "static/media/mie-ayam-bakso.jpg": "/static/media/mie-ayam-bakso.00031694.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafa68b7.js",
+    "static/js/2.ac14195d.chunk.js",
+    "static/css/main.a6ae1d33.chunk.css",
+    "static/js/main.6df3794a.chunk.js"
+  ]
+}
